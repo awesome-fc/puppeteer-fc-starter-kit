@@ -7,7 +7,7 @@ It can use alone and also supported [Serverless Framework](https://github.com/se
 ## Download
 
 ```
-$ git clone -o starter-kit https://github.com/muxiangqiu/puppeteer-fc-starter-kit.git your_project_name
+$ git clone -o starter-kit https://github.com/awesome-fc/puppeteer-fc-starter-kit.git your_project_name
 ```
 
 ## Packaging & Deploy
