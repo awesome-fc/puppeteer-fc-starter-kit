@@ -19,8 +19,8 @@ exports.run = async (browser) => {
       x: 200,
       y: 60,
       width: 780,
-      height: 450
-    }
+      height: 450,
+    },
   });
   await page.close();
   return screenshot;
